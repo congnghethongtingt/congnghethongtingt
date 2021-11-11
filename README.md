@@ -8,16 +8,17 @@
       
 ## Find me around the web 💻: <a href="https://github.com/giathanh2512"><img align="left" width="200" height="200" src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/GT/GT.gif?raw=true"></a>
 
-- <a href="https://www.youtube.com/channel/UCa52u55QtvEZuhcv1JFidFA"><img align="left" width="28" height="28" src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/YouTube_36px.png?raw=true">Youtube</a>
-
 - <a href="https://www.facebook.com/congnghethongtingt"><img align="left" width="28" height="28" 
 src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/facebook_36px.png?raw=true">Facebook</a>
+
+- <a href="https://www.youtube.com/channel/UCa52u55QtvEZuhcv1JFidFA"><img align="left" width="28" height="28" src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/YouTube_36px.png?raw=true">Youtube</a>
+
+- <a href="https://mail.google.com/mail/u/0/"><img align="left" width="28" height="28" 
+src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/gmail_36px.png">Gmail</a>
 
 - <a href="https://github.com/giathanh2512"><img align="left" width="28" height="28" 
 src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/githubwhiteb_36px.png">Github</a>
 
-- <a href="https://mail.google.com/mail/u/0/"><img align="left" width="28" height="28" 
-src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/gmail_36px.png">Gmail</a>
 
 ##
 ## Code
