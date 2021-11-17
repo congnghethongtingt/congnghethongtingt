@@ -7,7 +7,7 @@
       
       
 ### Find me around the web 💻: 
-<a href="https://github.com/giathanh2512"><img align="left" width="200" height="150" src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/GT/GT1.gif?raw=true"></a>
+<a href="https://github.com/giathanh2512"><img align="left" width="200" height="150" src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/GT/GT2.gif?raw=true"></a>
 
 - <a href="https://www.facebook.com/congnghethongtingt"><img align="left" width="30" height="30" 
 src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/facebook_36px.png?raw=true">Facebook</a>
