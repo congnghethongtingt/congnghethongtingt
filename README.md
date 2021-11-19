@@ -3,7 +3,7 @@
 <img align="right" width="350px" src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/GT/GT9.PNG?raw=true"></a>
   "When you want to give up, remember why you started." 
 ##
-![Facebook](https://img.shields.io/badge/-congnghethongtingt-1199F6?style=flat-square&amp;labelColor=1199F6&amp;logo=facebook&amp;logoColor=white&amp;link=https://www.facebook.com/congnghethongtingt) ![Youtube](https://img.shields.io/badge/-GT_CôngNghệThôngTin-F44747?style=flat-square&amp;labelColor=F44747&amp;logo=youtube&amp;logoColor=white&amp;link=https://www.youtube.com/channel/UCa52u55QtvEZuhcv1JFidFA) ![GMail](https://img.shields.io/badge/-luugiathanh25@gmail.com-B44D3F?style=flat-square&amp;labelColor=B44D3F&amp;logo=gmail&amp;logoColor=white&amp;link=https://mail.google.com/mail/u/0/) 
+![Facebook](https://img.shields.io/badge/-congnghethongtingt-1199F6?style=flat-square&amp;labelColor=1199F6&amp;logo=facebook&amp;logoColor=white&amp;link=https://www.facebook.com/congnghethongtingt) ![Youtube](https://img.shields.io/badge/-GT_Công_Nghệ_Thông_Tin-F44747?style=flat-square&amp;labelColor=F44747&amp;logo=youtube&amp;logoColor=white&amp;link=https://www.youtube.com/channel/UCa52u55QtvEZuhcv1JFidFA) ![GMail](https://img.shields.io/badge/-luugiathanh25@gmail.com-B44D3F?style=flat-square&amp;labelColor=B44D3F&amp;logo=gmail&amp;logoColor=white&amp;link=https://mail.google.com/mail/u/0/) 
       
       
 ### Find me around the web 💻: 
