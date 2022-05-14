@@ -1,4 +1,4 @@
-### Hi, I'm Gia Thanh 👋🏾
+### Hi, I'm GT 👋🏾
 
 <img align="right" width="350px" src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/GT/GT9.PNG?raw=true"></a>
   "When you want to give up, remember why you started." 
