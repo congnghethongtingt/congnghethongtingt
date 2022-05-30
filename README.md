@@ -23,5 +23,5 @@ src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/githubwhiteb_
 
 ##
 #####
-![C#](https://img.shields.io/badge/-blue?logo=csharp&amp;style=social)&nbsp;&nbsp;![C#](https://img.shields.io/badge/-blue?logo=cplusplus&amp;style=social)&nbsp;&nbsp;![SQL](https://img.shields.io/badge/-blue?logo=microsoftsqlserver&amp;style=social)&nbsp;&nbsp;
+![C#](https://img.shields.io/badge/-blue?logo=csharp&amp;style=social)&nbsp;&nbsp;&nbsp;![SQL](https://img.shields.io/badge/-blue?logo=microsoftsqlserver&amp;style=social)&nbsp;&nbsp;
 
