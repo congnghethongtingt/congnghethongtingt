@@ -1,7 +1,6 @@
-
 <img align="right" width="400px" src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/GT/GT9.PNG?raw=true"></a>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yanone+Kaffeesatz&size=21&duration=2000&color=C5C5C5FD&vCenter=true&lines=Hi%2C+I'm+GT+(%E5%88%98%E5%98%89%E9%9D%92)%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%8B)](https://git.io/typing-svg)
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=PT+Sans+Narrow&duration=3000&color=DCDCDC&width=250&lines=Hi%2C+I'm+GT+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%8B;Xin+cha%CC%80o%2C+t%C3%B4i+la%CC%80+GT+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%8B;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E5%88%98%E5%98%89%E9%9D%92+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%8B)](https://git.io/typing-svg)
   
 <h2>Welcome to my github profile! 🐮</h2> 
 <p>Chào mừng đến với hồ sơ github của tui 🐄</p> 
