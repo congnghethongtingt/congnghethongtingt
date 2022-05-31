@@ -30,7 +30,7 @@ src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/githubwhiteb_
 
 <p align="center"> "When you want to give up, remember why you started." 🌵 </p>
 
-<p align="center"> “Nếu có khi bạn muốn bỏ cuộc, hãy nhớ đến lý do vì sao bạn bắt đầu.” </p>
+<p align="center"> “Khi bạn muốn bỏ cuộc, hãy nhớ lý do vì sao bạn bắt đầu.” </p>
 
 <div align="center">
   
