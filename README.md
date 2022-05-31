@@ -3,7 +3,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yanone+Kaffeesatz&size=21&duration=2000&color=C5C5C5FD&vCenter=true&lines=Hi%2C+I'm+GT+(%E5%88%98%E5%98%89%E9%9D%92)%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%8B)](https://git.io/typing-svg)
   
-<h1>Welcome to my github profile! 🐮</h1> 
+<h2>Welcome to my github profile! 🐮</h2> 
 <p>Chào mừng đến với hồ sơ github của tui 🐄</p> 
 
 ![Facebook](https://img.shields.io/badge/-congnghethongtingt-1199F6?style=flat-square&amp;labelColor=1199F6&amp;logo=facebook&amp;logoColor=white&amp;link=https://www.facebook.com/congnghethongtingt) ![Youtube](https://img.shields.io/badge/-GT_CONGNGHETHONGTIN-F44747?style=flat-square&amp;labelColor=F44747&amp;logo=youtube&amp;logoColor=white&amp;link=https://www.youtube.com/channel/UCa52u55QtvEZuhcv1JFidFA)
