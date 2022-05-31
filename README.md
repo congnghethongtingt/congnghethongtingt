@@ -42,7 +42,6 @@ src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/githubwhiteb_
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=2500&color=49B4E6&center=true&vCenter=true&width=600&lines=%F0%9F%93%88%F0%9F%92%A1+My+Github+Stats%3A)](https://git.io/typing-svg)
   
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=giathanh2512&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giathanh2512&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
   
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=13&duration=2500&color=EE6DAFFD&center=true&vCenter=true&width=600&lines=%E2%9D%A4+If+you+like+what+i+do%2C+maybe+consider+buying+me+a+coffee%2Ftea+%F0%9F%91%89%E2%98%95%F0%9F%91%88)](https://git.io/typing-svg)
