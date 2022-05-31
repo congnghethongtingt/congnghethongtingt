@@ -1,5 +1,5 @@
 
-<img align="right" width="390px" src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/GT/GT9.PNG?raw=true"></a>
+<img align="right" width="400px" src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/GT/GT9.PNG?raw=true"></a>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yanone+Kaffeesatz&size=21&duration=2000&color=C5C5C5FD&vCenter=true&lines=Hi%2C+I'm+GT+(%E5%88%98%E5%98%89%E9%9D%92)%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%8B)](https://git.io/typing-svg)
   
