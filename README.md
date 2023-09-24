@@ -1,4 +1,4 @@
-<img align="right" width="400px" src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/GT/GT9.PNG?raw=true"></a>
+<img align="right" width="400px" src="https://github.com/congnghethongtingt/congnghethongtingt/blob/main/Photos/GT/GT9.PNG?raw=true"></a>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=PT+Sans+Narrow&duration=3000&color=DCDCDC&width=250&lines=Hi%2C+I'm+GT+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%8B;Xin+cha%CC%80o%2C+t%C3%B4i+la%CC%80+GT+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%8B;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E5%88%98%E5%98%89%E9%9D%92+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%8B)](https://git.io/typing-svg)
   
@@ -10,18 +10,20 @@
         
 <h2 style="color:blue;">Find me around the web 📱💻🌏: </h2>
   
-<a href="https://github.com/giathanh2512"><img align="left" width="200" height="150" src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/GT/GT2.gif?raw=true"></a>
+<a href="https://github.com/congnghethongtingt"><img align="left" width="200" height="150" 
+src="https://github.com/congnghethongtingt/congnghethongtingt/blob/main/Photos/GT/GT2.gif?raw=true"></a>
 
   * <a href="https://www.facebook.com/congnghethongtingt"><img align="left" width="30" height="30" 
-src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/facebook_36px.png?raw=true">Facebook</a>
+src="https://github.com/congnghethongtingt/congnghethongtingt/blob/main/Photos/facebook_36px.png?raw=true">Facebook</a>
   
-  * <a href="https://www.youtube.com/@congnghethongtingt"><img align="left" width="30" height="30" src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/YouTube_36px.png?raw=true">Youtube</a>
+  * <a href="https://www.youtube.com/@congnghethongtingt"><img align="left" width="30" height="30" 
+src="https://github.com/congnghethongtingt/congnghethongtingt/blob/main/Photos/YouTube_36px.png?raw=true">Youtube</a>
   
   * <a href="mailto:congnghethongtingt@outlook.com"><img align="left" width="30" height="30" 
 src="https://github.com/congnghethongtingt/congnghethongtingt/blob/main/Photos/outlook.png">Outlook</a>
 
   * <a href="https://github.com/congnghethongtingt"><img align="left" width="30" height="30" 
-src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/githubwhiteb_36px.png">Github</a>
+src="https://github.com/congnghethongtingt/congnghethongtingt/blob/main/Photos/githubwhiteb_36px.png">Github</a>
 
 
 
