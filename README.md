@@ -15,10 +15,10 @@
   * <a href="https://www.facebook.com/congnghethongtingt"><img align="left" width="30" height="30" 
 src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/facebook_36px.png?raw=true">Facebook</a>
   
-  * <a href="https://www.youtube.com/channel/UCa52u55QtvEZuhcv1JFidFA"><img align="left" width="30" height="30" src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/YouTube_36px.png?raw=true">Youtube</a>
+  * <a href="https://www.youtube.com/@congnghethongtingt"><img align="left" width="30" height="30" src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/YouTube_36px.png?raw=true">Youtube</a>
   
-  * <a href="https://mail.google.com/mail/u/0/"><img align="left" width="30" height="30" 
-src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/gmail_36px.png">Gmail</a>
+  * <a href="mailto:congnghethongtingt@outlook.com"><img align="left" width="30" height="30" 
+src="https://github.com/congnghethongtingt/congnghethongtingt/blob/main/Photos/outlook.png">Outlook</a>
 
   * <a href="https://github.com/giathanh2512"><img align="left" width="30" height="30" 
 src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/githubwhiteb_36px.png">Github</a>
