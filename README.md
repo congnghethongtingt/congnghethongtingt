@@ -19,8 +19,8 @@ src="https://github.com/congnghethongtingt/congnghethongtingt/blob/main/Photos/f
   * <a href="https://www.youtube.com/@congnghethongtingt"><img align="left" width="30" height="30" 
 src="https://github.com/congnghethongtingt/congnghethongtingt/blob/main/Photos/YouTube_36px.png?raw=true">Youtube</a>
   
-  * <a href="mailto:congnghethongtingt@outlook.com"><img align="left" width="30" height="30" 
-src="https://github.com/congnghethongtingt/congnghethongtingt/blob/main/Photos/outlook.png">Outlook</a>
+  * <a href="mailto:congnghethongtingt@gmail.com"><img align="left" width="30" height="30" 
+src="https://github.com/congnghethongtingt/congnghethongtingt/blob/main/Photos/gmail_36px.png">Gmail</a>
 
   * <a href="https://github.com/congnghethongtingt"><img align="left" width="30" height="30" 
 src="https://github.com/congnghethongtingt/congnghethongtingt/blob/main/Photos/githubwhiteb_36px.png">Github</a>
