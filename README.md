@@ -20,7 +20,7 @@ src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/facebook_36px
   * <a href="mailto:congnghethongtingt@outlook.com"><img align="left" width="30" height="30" 
 src="https://github.com/congnghethongtingt/congnghethongtingt/blob/main/Photos/outlook.png">Outlook</a>
 
-  * <a href="https://github.com/giathanh2512"><img align="left" width="30" height="30" 
+  * <a href="https://github.com/congnghethongtingt"><img align="left" width="30" height="30" 
 src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/githubwhiteb_36px.png">Github</a>
 
 
